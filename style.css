@@ -1,6 +1,6 @@
 html{
-    background-color: rgb(251, 246, 230); 
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, Courier, monospace, Tahoma, Geneva, Verdana, sans-serif, 'Times New Roman', Times, serif;
+    background-color: black; 
+    font-family: "Libre Baskerville", serif;
 }
 
 h1{
@@ -16,5 +16,5 @@ footer{
     color: brown;
 }
 li{
-    color: indigo;
+    color: white;
 }
