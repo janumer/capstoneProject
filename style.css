@@ -4,13 +4,13 @@ html{
 }
 
 h1{
-    color: rgb(26, 94, 94);
+    color: orange;
 }
 h3{
-    color: rgb(26, 94, 94);
+    color: orange;
 }
 h2{
-    color: blue;
+    color: yellow;
 }
 footer{
     color: brown;
@@ -18,3 +18,4 @@ footer{
 li{
     color: white;
 }
+
